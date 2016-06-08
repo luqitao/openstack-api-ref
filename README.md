@@ -5,5 +5,9 @@ OpenStack接口文档
 
 ## 本项目地址
 
-- 仓库：<待补充>
-- 在线阅读：<待补充>
+- 仓库：https://git.gitbook.com/luqitao/openstack-api-ref.git
+- 在线阅读：https://www.gitbook.com/book/luqitao/openstack-api-ref
+
+## Github地址
+
+- 仓库：https://github.com/luqitao/openstack-api-ref.git
