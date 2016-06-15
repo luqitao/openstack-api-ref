@@ -8,7 +8,7 @@
     },
     "plugins": [
         "toggle-chapters",
-        "yahei"
+        "gitbook-plugin-yahei"
     ],
     "pluginsConfig": {}
 }
