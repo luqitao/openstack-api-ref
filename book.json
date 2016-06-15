@@ -3,10 +3,12 @@
     "language": "cn",
     "github": {
         "sidebar": {
-            "github地址" : "https://github.com/luqitao/openstack-api-ref.git"
+            "github地址": "https://github.com/luqitao/openstack-api-ref.git"
         }
     },
     "plugins": [
-        "toggle-chapters"
-    	]
+        "toggle-chapters",
+        "yahei"
+    ],
+    "pluginsConfig": {}
 }
