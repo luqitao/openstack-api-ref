@@ -6,7 +6,8 @@
         }
     },
     "plugins": [
-        "splitter"
+        "splitter",
+        "betterchinese"
     ],
     "pluginsConfig": {}
 }
