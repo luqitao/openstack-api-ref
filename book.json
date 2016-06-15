@@ -1,0 +1,12 @@
+{
+    "gitbook" : "2.2.0",
+    "language" : "cn",
+	"github" : {
+        "sidebar" : {
+            "github地址" : "https://github.com/luqitao/openstack-api-ref.git"
+        }
+    },
+    "plugins": [
+	    "multipart"
+		]
+}
