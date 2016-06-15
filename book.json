@@ -6,8 +6,7 @@
         }
     },
     "plugins": [
-        "toggle-chapters",
-        "gitbook-plugin-yahei"
+        "splitter"
     ],
     "pluginsConfig": {}
 }
