@@ -20,6 +20,7 @@
    * [Volume actions (volumes, action)](openstack/volume_actions.md)
    * [Backups (backups)](openstack/backups.md)
    * [Backup actions (backups, action)](openstack/backup_actions.md)
+   * Capabilities for storage back ends (capabilities)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
