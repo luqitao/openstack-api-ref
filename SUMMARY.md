@@ -12,6 +12,7 @@
 * [glance](openstack/glance.md)
 * [neutron](openstack/neutron.md)
 * [cinder](openstack/cinder.md)
+   * API extensions (extensions)
    * [API versions](openstack/api_versions.md)
        * API extensions (extensions)
    * [Volumes](openstack/volumes.md)
