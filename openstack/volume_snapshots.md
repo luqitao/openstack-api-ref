@@ -1,2 +1,0 @@
-# Volume snapshots (snapshots)
-
