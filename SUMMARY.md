@@ -28,7 +28,7 @@
    * [Volume manage extension (os-volume-manage)](openstack/volume_manage_extension.md)
    * [Volume image metadata extension (os-vol-image-meta)](openstack/volume_image_metadata_extension.md)
    * [Back-end storage pools](openstack/back-end_storage_pools.md)
-   * Volume transfer
+   * [Volume transfer](openstack/volume_transfer.md)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
