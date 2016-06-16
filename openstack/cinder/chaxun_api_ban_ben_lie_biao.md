@@ -12,7 +12,7 @@
 |200|成功|
 ## 响应body
 
-见示例
+见[示例](示例)
 ## 示例
 ```
 $ curl -s -g -X GET http://controller:8776/ \ 
