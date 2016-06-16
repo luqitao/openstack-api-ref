@@ -14,7 +14,7 @@
 * [cinder](openstack/cinder.md)
    * [API versions](openstack/api_versions.md)
    * [API extensions (extensions)](openstack/api_extensions.md)
-   * Limits (limits)
+   * [Limits (limits)](openstack/limits.md)
    * [Volumes](openstack/volumes.md)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
