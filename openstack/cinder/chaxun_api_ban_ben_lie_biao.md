@@ -1,21 +1,15 @@
 # 查询api版本列表
-查询块存储所支持的所有版本列表。
 
+## 请求
 |HTTP方法|URL|说明|
 |------|---|---|
-|GET|/||
-
-
-
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
+|GET|/|查询块存储模块支持的所有接口版本列表。|
+### 请求body
+无
+## 响应
+|返回码|描述|
+|---|---|
+|200|成功|
+## 示例
 
 
