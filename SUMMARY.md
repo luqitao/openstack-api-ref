@@ -17,7 +17,7 @@
    * [Limits (limits)](openstack/cinder/limitsmd.md)
    * [Volumes](openstack/cinder/volumes.md)
    * [Volume type access (volumes)](openstack/cinder/volumetype_access.md)
-   * [Volume actions (volumes, action)](openstack/volume_actions.md)
+   * [Volume actions (volumes, action)](openstack/cinder/volume_actions.md)
    * [Backups (backups)](openstack/cinder/backups.md)
    * [Backup actions (backups, action)](openstack/cinder/backupactions.md)
    * [Capabilities for storage back ends (capabilities)](openstack/cinder/capabilitiesfor_storage_back_ends.md)
