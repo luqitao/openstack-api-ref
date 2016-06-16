@@ -17,6 +17,11 @@
 |snapshot_id(可选)|plain|csapi:UUID|快照UUID，从快照创建的卷和快照具有相同大小，且在同一个可用域内|
 |name(可选)|plain|xsd:string|卷名称|
 |imageRef(可选)|plain|csapi:UUID|镜像UUID，创建一个可启动卷时需要传镜像id|
+|volume_type(可选)|plain|xsd:string|卷名称|
+|metadata(可选)|plain|xsd:string|卷名称|
+|source_replica(可选)|plain|xsd:string|卷名称|
+|consistencygroup_id(可选)|plain|xsd:string|卷名称|
+|scheduler_hints(可选)|plain|xsd:string|卷名称|
 ## 响应
 |返回码|描述|
 |:---|:---|
