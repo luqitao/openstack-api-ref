@@ -30,7 +30,7 @@
    * [Back-end storage pools](openstack/cinder/back-endstorage_pools.md)
    * [Volume transfer](openstack/cinder/volumetransfer.md)
    * [Consistency groups](openstack/cinder/consistencygroups.md)
-   * [Consistency group snapshots](openstack/cinder/consistency_group_snapshots.md)
+   * [Consistency group snapshots](openstack/cinder/consistencygroup_snapshots.md)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
