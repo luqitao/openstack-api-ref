@@ -22,7 +22,7 @@
    * [Backup actions (backups, action)](openstack/cinder/backupactions.md)
    * [Capabilities for storage back ends (capabilities)](openstack/cinder/capabilitiesfor_storage_back_ends.md)
    * [Quota sets extension (os-quota-sets)](openstack/cinder/quotasets_extension.md)
-   * [Quality of service (QoS) specifications (qos-specs)](openstack/cinder/quality_of_service_qos_specifications.md)
+   * [Quality of service (QoS) specifications (qos-specs)](openstack/cinder/qualityof_service_qos_specifications.md)
    * [Volume types (types)](openstack/cinder/volume_types.md)
    * [Volume snapshots (snapshots)](openstack/cinder/volume_snapshots.md)
    * [Volume manage extension (os-volume-manage)](openstack/cinder/volume_manage_extension.md)
