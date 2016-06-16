@@ -23,7 +23,7 @@
    * [Capabilities for storage back ends (capabilities)](openstack/capabilities_for_storage_back_ends.md)
    * [Quota sets extension (os-quota-sets)](openstack/quota_sets_extension.md)
    * [Quality of service (QoS) specifications (qos-specs)](openstack/quality_of_service_qos_specifications.md)
-   * Volume types (types)
+   * [Volume types (types)](openstack/volume_types.md)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
