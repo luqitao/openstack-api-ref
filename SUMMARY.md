@@ -19,6 +19,7 @@
    * [Limits (limits)](openstack/cinder/limits.md)
    * [Volumes](openstack/cinder/volumes.md)
        * [创建卷](openstack/cinder/create_volume.md)
+       * 查询所有卷列表
    * [Volume type access (volumes)](openstack/cinder/volume_type_access.md)
    * [Volume actions (volumes, action)](openstack/cinder/volume_actions.md)
    * [Backups (backups)](openstack/cinder/backups.md)
