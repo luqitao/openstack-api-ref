@@ -14,3 +14,6 @@
 |restoring-backup|恢复中|
 |error_restoring|恢复失败|
 |error_extending|扩容失败|
+|extending|扩容中|
+|uploading|上传中|
+|downloading|下载中|
