@@ -13,7 +13,6 @@
 * [neutron](openstack/neutron.md)
 * [cinder](openstack/cinder.md)
    * [API versions](openstack/api_versions.md)
-       * API extensions (extensions)
    * API extensions (extensions)
    * [Volumes](openstack/volumes.md)
 * [术语及定义](glossary/README.md)
