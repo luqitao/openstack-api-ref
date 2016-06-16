@@ -16,6 +16,7 @@
    * [API extensions (extensions)](openstack/api_extensions.md)
    * [Limits (limits)](openstack/limits.md)
    * [Volumes](openstack/volumes.md)
+   * Volume type access (volumes)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
