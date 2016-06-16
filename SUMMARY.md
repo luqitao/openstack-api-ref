@@ -13,7 +13,7 @@
 * [neutron](openstack/neutron.md)
 * [cinder](openstack/cinder.md)
    * [API versions](openstack/cinder/apiversions_md.md)
-   * [API extensions (extensions)](openstack/cinder/api_extensions.md)
+   * [API extensions (extensions)](openstack/cinder/apiextensions_md.md)
    * [Limits (limits)](openstack/cinder/limits.md)
    * [Volumes](openstack/cinder/volumes.md)
    * [Volume type access (volumes)](openstack/cinder/volume_type_access.md)
