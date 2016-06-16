@@ -25,7 +25,7 @@
    * [Quality of service (QoS) specifications (qos-specs)](openstack/cinder/qualityof_service_qos_specifications.md)
    * [Volume types (types)](openstack/cinder/volumetypes.md)
    * [Volume snapshots (snapshots)](openstack/cinder/volumesnapshots.md)
-   * [Volume manage extension (os-volume-manage)](openstack/cinder/volume_manage_extension.md)
+   * [Volume manage extension (os-volume-manage)](openstack/cinder/volumemanage_extension.md)
    * [Volume image metadata extension (os-vol-image-meta)](openstack/cinder/volume_image_metadata_extension.md)
    * [Back-end storage pools](openstack/cinder/back-end_storage_pools.md)
    * [Volume transfer](openstack/cinder/volume_transfer.md)
