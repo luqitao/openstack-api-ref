@@ -18,6 +18,7 @@
    * [Volumes](openstack/volumes.md)
    * [Volume type access (volumes)](openstack/volume_type_access.md)
    * [Volume actions (volumes, action)](openstack/volume_actions.md)
+   * Backups (backups)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
