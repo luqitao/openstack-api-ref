@@ -24,7 +24,7 @@
        * [查询指定卷详情](openstack/cinder/show_volume_detail.md)
        * [修改卷基本信息](openstack/cinder/update_volume_basic_info.md)
        * [删除卷](openstack/cinder/delete_volume.md)
-       * 创建卷元数据
+       * [创建卷元数据](openstack/cinder/create_volume_metadata.md)
        * 查询指定卷元数据
        * 更新卷元数据
    * [Volume type access (volumes)](openstack/cinder/volume_type_access.md)
