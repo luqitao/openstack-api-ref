@@ -1,6 +1,15 @@
 # 查询api v2版本详情
-
-
+## 请求
+|HTTP方法|URI|说明|
+|------|---|---|
+|GET|/2.0|查询块存储模块支持的所有接口版本列表。|
+### 请求body
+无
+## 响应
+|返回码|描述|
+|---|---|
+|200|成功|
+## 示例
 ```
 curl -s -g -X GET http://controller:8776/v2.0 \
            -H "User-Agent: python-cinderclient" \
