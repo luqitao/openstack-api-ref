@@ -10,6 +10,10 @@
 |返回码|描述|
 |---|---|
 |200|成功|
+## 响应body
+|参数|样式|类型|说明|
+|---|---|---|---|
+|location|plain|xsd:anyURI|Full URL to a service or server.|
 ## 示例
 查询v1.0接口详情
 ```
