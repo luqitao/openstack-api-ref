@@ -11,7 +11,7 @@
 * [nova](openstack/nova.md)
 * [glance](openstack/glance.md)
 * [neutron](openstack/neutron.md)
-* [cinder](openstack/cinder.md)
+* [cinder](openstack/cinder/readme.md)
    * [API versions](openstack/cinder/apiversions_md.md)
    * [API extensions (extensions)](openstack/cinder/apiextensions_md.md)
    * [Limits (limits)](openstack/cinder/limitsmd.md)
