@@ -23,6 +23,7 @@
        * [查询所有卷列表详情](openstack/cinder/list_volumes_detail.md)
        * [查询指定卷详情](openstack/cinder/show_volume_detail.md)
        * 修改卷
+       * 删除卷
    * [Volume type access (volumes)](openstack/cinder/volume_type_access.md)
    * [Volume actions (volumes, action)](openstack/cinder/volume_actions.md)
    * [Backups (backups)](openstack/cinder/backups.md)
