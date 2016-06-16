@@ -14,7 +14,7 @@
 * [cinder](openstack/cinder/readmemd.md)
    * [API versions](openstack/cinder/apiversions_md.md)
        * [查询api版本列表](openstack/cinder/chaxun_api_ban_ben_lie_biao.md)
-       * 查询api v2版本详情
+       * [查询api v2版本详情](openstack/cinder/chaxun_api_v2_ban_ben_xiang_qing.md)
    * [API extensions (extensions)](openstack/cinder/apiextensions_md.md)
    * [Limits (limits)](openstack/cinder/limitsmd.md)
    * [Volumes](openstack/cinder/volumes.md)
