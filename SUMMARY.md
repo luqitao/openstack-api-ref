@@ -8,6 +8,7 @@
    * [HTTP 方法](protocol/http_method.md)
    * [媒体类型](protocol/medium_type.md)
    * [协议版本](protocol/protocol_version.md)
+* [keystone](openstack/keystone/readme.md)
 * [nova](openstack/nova.md)
 * [glance](openstack/glance.md)
 * [neutron](openstack/neutron.md)
