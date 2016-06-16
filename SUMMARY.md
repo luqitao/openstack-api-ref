@@ -12,7 +12,7 @@
 * [glance](openstack/glance.md)
 * [neutron](openstack/neutron.md)
 * [cinder](openstack/cinder.md)
-   * Volumes
+   * [Volumes](openstack/volumes.md)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
