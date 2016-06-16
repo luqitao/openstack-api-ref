@@ -26,7 +26,7 @@
        * [删除卷](openstack/cinder/delete_volume.md)
        * 创建卷元数据
        * 查询指定卷元数据
-       * 修改卷元数据
+       * 更新卷元数据
    * [Volume type access (volumes)](openstack/cinder/volume_type_access.md)
    * [Volume actions (volumes, action)](openstack/cinder/volume_actions.md)
    * [Backups (backups)](openstack/cinder/backups.md)
