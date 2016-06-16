@@ -18,8 +18,8 @@
    * [API extensions (extensions)](openstack/cinder/api_extensions.md)
    * [Limits (limits)](openstack/cinder/limits.md)
    * [Volumes](openstack/cinder/volumes.md)
-       * [查询所有卷列表](openstack/cinder/list_volumes.md)
        * [创建卷](openstack/cinder/create_volume.md)
+       * [查询所有卷列表](openstack/cinder/list_volumes.md)
        * 查询所有卷列表详情
        * [查询指定卷详情](openstack/cinder/show_volume_detail.md)
    * [Volume type access (volumes)](openstack/cinder/volume_type_access.md)
