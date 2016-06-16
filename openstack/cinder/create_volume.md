@@ -2,10 +2,21 @@
 ## 请求
 |HTTP方法|URI|说明|
 |:------|:---|:---|
-|GET|/v1.0|查询块存储模块支持v1.0版本接口详情。|
-|GET|/v2.0|查询块存储模块支持v2.0版本接口详情。|
+|POST|/v2/{tenant_id}/volumes|创建一个卷。|
+
 ### 请求body
-无
+|参数|样式|类型|说明|
+|:------|:---|:---|:---|
+|tenant_id|URI|csapi:UUID|租户UUID|
+|volume|plain|xsd:dict|一个卷对象|
+|size|plain|xsd:int|卷大小，单位：GB|
+|availability_zone(可选)|plain|xsd:string|可用域|
+|source_volid(可选)|plain|csapi:UUID|源卷UUID，克隆卷后会创建一个和源卷大小一样的新卷|
+|description(可选)|plain|xsd:string|描述信息|
+|multiattach(可选)|plain|xsd:boolean|如果要允许一个卷同时挂载到多台虚拟机，将该值设置为true，缺省为false|
+|snapshot_id(可选)|plain|csapi:UUID|快照UUID，从快照创建的卷和快照具有相同大小，且在同一个可用域内|
+|name(可选)|plain|xsd:string|卷名称|
+|imageRef(可选)|plain|csapi:UUID|镜像UUID，创建一个可启动卷时需要传镜像id|
 ## 响应
 |返回码|描述|
 |:---|:---|
