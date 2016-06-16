@@ -22,6 +22,7 @@
    * [Backup actions (backups, action)](openstack/backup_actions.md)
    * [Capabilities for storage back ends (capabilities)](openstack/capabilities_for_storage_back_ends.md)
    * [Quota sets extension (os-quota-sets)](openstack/quota_sets_extension.md)
+   * Quality of service (QoS) specifications (qos-specs)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
