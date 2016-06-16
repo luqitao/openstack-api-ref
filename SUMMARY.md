@@ -24,7 +24,7 @@
    * [Quota sets extension (os-quota-sets)](openstack/quota_sets_extension.md)
    * [Quality of service (QoS) specifications (qos-specs)](openstack/quality_of_service_qos_specifications.md)
    * [Volume types (types)](openstack/volume_types.md)
-   * Volume snapshots (snapshots)
+   * [Volume snapshots (snapshots)](openstack/volume_snapshots.md)
 * [术语及定义](glossary/README.md)
 * [符号与缩写](symbols/README.md)
 
