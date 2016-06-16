@@ -1,2 +1,0 @@
-# Consistency group snapshots
-
