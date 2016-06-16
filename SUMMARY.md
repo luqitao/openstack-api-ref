@@ -11,6 +11,7 @@
 * [nova](openstack/nova.md)
 * [glance](openstack/glance.md)
 * [neutron](openstack/neutron.md)
+* [API versions](openstack/api_versions.md)
 * [cinder](openstack/cinder.md)
    * [Volumes](openstack/volumes.md)
    * [API versions](openstack/api_versions.md)
