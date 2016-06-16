@@ -17,11 +17,11 @@
 |snapshot_id(可选)|plain|csapi:UUID|快照UUID，从快照创建的卷和快照具有相同大小，且在同一个可用域内|
 |name(可选)|plain|xsd:string|卷名称|
 |imageRef(可选)|plain|csapi:UUID|镜像UUID，创建一个可启动卷时需要传镜像id|
-|volume_type(可选)|plain|xsd:string|卷名称|
-|metadata(可选)|plain|xsd:string|卷名称|
-|source_replica(可选)|plain|xsd:string|卷名称|
-|consistencygroup_id(可选)|plain|xsd:string|卷名称|
-|scheduler_hints(可选)|plain|xsd:string|卷名称|
+|volume_type(可选)|plain|xsd:string|卷类型，在多后端环境中，必须要指定卷类型来创卷，缺省值为None|
+|metadata(可选)|plain|xsd:dict|元数据，给卷设置一个或多个键值对形式的元数据|
+|source_replica(可选)|plain|csapi:UUID|用来克隆的主卷UUID|
+|consistencygroup_id(可选)|plain|csapi:UUID|一致性组UUID|
+|scheduler_hints(可选)|plain|xsd:dict|可传递给scheduler的数据|
 ## 响应
 |返回码|描述|
 |:---|:---|
