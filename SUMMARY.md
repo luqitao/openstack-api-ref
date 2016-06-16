@@ -27,7 +27,7 @@
    * [Volume snapshots (snapshots)](openstack/cinder/volumesnapshots.md)
    * [Volume manage extension (os-volume-manage)](openstack/cinder/volumemanage_extension.md)
    * [Volume image metadata extension (os-vol-image-meta)](openstack/cinder/volumeimage_metadata_extension.md)
-   * [Back-end storage pools](openstack/cinder/back-end_storage_pools.md)
+   * [Back-end storage pools](openstack/cinder/back-endstorage_pools.md)
    * [Volume transfer](openstack/cinder/volume_transfer.md)
    * [Consistency groups](openstack/cinder/consistency_groups.md)
    * [Consistency group snapshots](openstack/cinder/consistency_group_snapshots.md)
