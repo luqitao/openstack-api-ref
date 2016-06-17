@@ -13,7 +13,7 @@
 ## 响应body
 |参数|样式|类型|说明|
 |:---|:---|:---|:---|
-|location|plain|xsd:anyURI|Full URL to a service or server.|
+|location|plain|xsd:anyURI|访问服务的URL全路径地址.|
 ## 示例
 查询v1.0接口详情
 ```
