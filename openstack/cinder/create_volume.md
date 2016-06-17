@@ -23,7 +23,7 @@
 |metadata(可选)|plain|xsd:dict|元数据，给卷设置一个或多个键值对形式的元数据|
 |source_replica(可选)|plain|csapi:UUID|用来克隆的主卷UUID|
 |consistencygroup_id(可选)|plain|csapi:UUID|一致性组UUID|
-|scheduler_hints(可选)|plain|xsd:dict|可传递给scheduler的数据|
+|scheduler_hints(可选)|plain|xsd:dict|传递给scheduler的数据|
 ## 响应
 |返回码|描述|
 |:---|:---|
