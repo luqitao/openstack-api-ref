@@ -36,5 +36,5 @@
 |status|plain|xsd:string|卷状态|
 |migration_status|plain|xsd:string|卷的迁移状态|
 |user_id|plain|csapi:UUID|用户UUID|
-|attachments|plain|xsd:list|虚拟机挂载信息，|
+|attachments|plain|xsd:list|虚拟机挂载信息。如果卷没有挂载到虚拟机，这个列表为空。如果卷被挂载到虚拟机，这个列表包含虚拟机UUID，attachment UUID还有挂载主机名称，|
 ## 示例
