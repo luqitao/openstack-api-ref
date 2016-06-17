@@ -32,5 +32,9 @@
 ## 响应body
 |参数|样式|类型|说明|
 |:---|:---|:---|:---|
-|location|plain|xsd:anyURI|Full URL to a service or server.|
+|volume|plain|xsd:dict|一个volume对象|
+|status|plain|xsd:string|卷状态|
+|migration_status|plain|xsd:string|卷的迁移状态|
+|user_id|plain|csapi:UUID|用户UUID|
+|attachments|plain|xsd:list|虚拟机挂载信息，|
 ## 示例
